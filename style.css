@@ -1,35 +1,15 @@
-.khushi{
-    height: 400px;
-    width: 400px;
-    background-color: darkred;
+.box1{
+    height:50px;
+    width:600px ;
+    background-color:darkslategrey;
 }
-.hiya{
+.box2{
     height: 400px;
-    width: 400px;
-    background-color: darkgreen;
+    width: 600px;
+    background-color: darkseagreen;
 }
-.riya{
-    height: 400px;
-    width: 400px;
-    background-color: darkmagenta;
-}
-.diya{
-    height: 400px;
-    width: 400px;
+.box3{
+    height:50px ;
+    width: 600px;
     background-color: darkslategray;
-}
-.swarna{
-    height: 400px;
-    width: 400px;
-    background-color: darkslateblue;
-}
-.fatema{
-    height: 400px;
-    width: 400px;
-    background-color: hotpink;
-}
-.borna{
-    height: 400px;
-    width: 400px;
-    background-color: purple;
 }
